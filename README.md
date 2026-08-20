@@ -1,3 +1,3 @@
-# Arxiv日食版 公开快照
+# snapshot
 
-只读论文列表，自动更新。
+Internal read-only snapshot. Not for public listing.
